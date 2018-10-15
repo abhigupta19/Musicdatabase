@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">database</string>
+    <array name="geners">
+        <item>Pop</item>
+        <item>Rock</item>
+        <item>Raj</item>
+    </array>
+
+</resources>
